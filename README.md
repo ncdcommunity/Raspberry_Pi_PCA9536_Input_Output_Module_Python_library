@@ -20,7 +20,9 @@ Hardware needed to interface PCA9536 input output module With Raspberry Pi:
 
 ## Python
 Download and install smbus library on Raspberry pi. Steps to install smbus are provided at:
+
 https://pypi.python.org/pypi/smbus-cffi/0.5.1
+
 Download (or git pull) the code in pi. Run the program.
 
 ```cpp
